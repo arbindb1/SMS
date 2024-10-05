@@ -1,6 +1,3 @@
-hello abc
-
-i am dev/praful 
-
-i am dev/arbin
+Arbin is the best 
+praful sucks.
 
